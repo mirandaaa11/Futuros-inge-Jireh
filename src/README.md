@@ -144,4 +144,13 @@ void loop() {
 
 
 <h1 align="center"> <h1 align="center"> The  artifacts required to resolve dependencies and build the project  </h1>
+ 
+ ![No-page-0001.jpg](https://i.postimg.cc/pTgZw4yH/No-page-0001.jpg)
+ 
+![No-2.png](https://i.postimg.cc/261p0JXY/No-2.png)
+ 
+ ![No-page-0003.jpg](https://i.postimg.cc/CK79VhVV/No-page-0003.jpg)
 
+ ![No-page-0004.jpg](https://i.postimg.cc/Qx58ZTYG/No-page-0004.jpg)
+ 
+ 
