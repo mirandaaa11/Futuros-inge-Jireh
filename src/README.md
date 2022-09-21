@@ -143,5 +143,5 @@ void loop() {
 }
 
 
-<h1 align="center"> <h1 align="center"> Control software </h1>
+<h1 align="center"> <h1 align="center"> The  artifacts required to resolve dependencies and build the project  </h1>
 
